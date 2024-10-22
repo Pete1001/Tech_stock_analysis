@@ -116,21 +116,21 @@ Although historically all three stocks have an upward trend, more recently (Octo
         -The time series forecast for Apple shares shows an upward trend for the next 90 days. 
         -The forecast predicts that the Apple share price will increase 5.4% over the next 90 days.
 <p align="center">
-  <img src="/Resources/aapl5yr.png" />
+  <img src="/Resources/appleforecast.png" />
 </p>
 
     Microsoft:  
         -The time series forecast for Microsoft shares shows an upward trend for the next 90 days.  
         -The forecast predicts that the Google share price will increase 10.4% over the next 90 days.  
 <p align="center">
-  <img src="/Resources/msft5yr.png" />
+  <img src="/Resources/microsoftforecast.png" />
 </p>
 
     Google (Class A):
         -The time series forecast for Google (class A) shares shows an upward trend for the next 90 days. 
         -The forecast predicts that the Google share price will increase 5.4% over the next 90 days.
 <p align="center">
-  <img src="/Resources/googl5yr.png" />
+  <img src="/Resources/googlepredict.png" />
 </p>
 
 ### APPROACH IN ACHIEVING PROJECT GOALS:
